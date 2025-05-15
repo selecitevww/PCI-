@@ -7,32 +7,48 @@ PCI контроллер извлечения данных и обработки
 ИД оборудования:
 
 >PCI\VEN_8086&DEV_8C24&SUBSYS_00008086&REV_05
+>
 >PCI\VEN_8086&DEV_8C24&SUBSYS_00008086
+>
 >PCI\VEN_8086&DEV_8C24&CC_118000
+>
 >PCI\VEN_8086&DEV_8C24&CC_1180
 
 Совместимые ИД:
 
 >PCI\VEN_8086&DEV_8C24&REV_05
+>
 >PCI\VEN_8086&DEV_8C24
+>
 >PCI\VEN_8086&CC_118000
+>
 >PCI\VEN_8086&CC_1180
+>
 >PCI\VEN_8086
+>
 >PCI\CC_118000
+>
 >PCI\CC_1180
 
 Состояние:
 
 >01802400
+>
 >DN_HAS_PROBLEM
+>
 >DN_DISABLEABLE
+>
 >DN_NT_ENUMERATOR
+>
 >DN_NT_DRIVER
+>
 
 Флаги конфигурации:
 
 >00000041
+>
 >CONFIGFLAG_DISABLED
+>
 >CONFIGFLAG_FAILEDINSTALL
 
 GUID типа шины:
@@ -100,15 +116,22 @@ GUID типа шины:
 
 Возможности электропитания:
 >00000009
+>
 >PDCAP_D0_SUPPORTED
+>
 >PDCAP_D3_SUPPORTED
 
 Сопоставления энергосбережения:
 >S0 -> D0
+>
 >S1 -> Не определено
+>
 >S2 -> Не определено
+>
 >S3 -> D3
+>
 >S4 -> D3
+>
 >S5 -> D3
 
 Код контейнера:
@@ -121,6 +144,8 @@ GUID типа шины:
 Зависимости извлечение:
 
 >PCI\VEN_8086&DEV_8C50&SUBSYS_72708086&REV_05\3&11583659&0&F8
+>
 >PCI\VEN_8086&DEV_8C02&SUBSYS_72708086&REV_05\3&11583659&0&FA
+>
 >PCI\VEN_8086&DEV_8C22&SUBSYS_72708086&REV_05\3&11583659&0&FB
 
