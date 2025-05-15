@@ -1,3 +1,13 @@
+Y:\Windows\System32>pnputil /enum-devices /deviceid "PCI\VEN_8086&DEV_8C24&SUBSYS_00008086&REV_05"
+Microsoft PnP Utility
+
+Instance ID:                PCI\VEN_8086&DEV_8C24&SUBSYS_00008086&REV_05\3&11583659&0&FE
+Device Description:         PCI контроллер извлечения данных и обработки сигнала
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Disabled
+
 PCI контроллер извлечения данных и обработки сигнала
 
 Путь к экземпляру:
