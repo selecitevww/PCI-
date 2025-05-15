@@ -1,5 +1,5 @@
 
->pnputil /enum-devices /deviceid "PCI\VEN_8086&DEV_8C24&SUBSYS_00008086&REV_05"
+pnputil /enum-devices /deviceid "PCI\VEN_8086&DEV_8C24&SUBSYS_00008086&REV_05"
 >
 >Microsoft PnP Utility
 
